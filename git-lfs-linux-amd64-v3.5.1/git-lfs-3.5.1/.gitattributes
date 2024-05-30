@@ -1,0 +1,2 @@
+/home/krishna/LARA/LARA-1-master/LARA/reviewData.xlsx filter=lfs diff=lfs merge=lfs -text
+/home/krishna/LARA/LARA-1-master/LARA/sentenceData.csv filter=lfs diff=lfs merge=lfs -text
